@@ -63,6 +63,14 @@ Please read our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
 This repository contains **no confidential** or proprietary content. All materials are shared under the MIT License and intended for public development purposes.
 
+## Monetization strategy
+
+The monetization strategy for Project Riptide, as outlined in the internal document, includes several tiers:
+
+Free-to-Play Core Access: This includes the base game with rotating free characters and weapons, standard XP progression, and optional ad-supported lobby screens.
+Riptide Premium Pass: Priced at $9.99 per month or $24.99 per season, this pass includes a premium XP track, weekly cosmetic drops (non-tradable), early access to limited-time events, and is codenamed TRIDENT.
+Riptide Creator Circle: An invite-only tier priced at $49.99 per month, which includes access to backend modding tools, analytics dashboards, a revenue-sharing model for verified creators, and a custom cosmetic submission system, codenamed OMEGA.
+
 ---
 
 ## License
